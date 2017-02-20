@@ -1,0 +1,7 @@
+﻿\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\doc\cli\npm-adduser.md
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\html\doc\cli\npm-adduser.html
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\lib\adduser.js
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\man\man1\npm-adduser.1
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm-registry-client\lib\adduser.js
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm-registry-client\test\adduser-new.js
+\\CDIB3272\C$\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm-registry-client\test\adduser-update.js
